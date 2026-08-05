@@ -38,5 +38,5 @@ $ python safe-check.py -i track/ -o check
   └── [Visual]: Adaptative border map generated on -> check\Lenna_check.png
 ```
 
-[Processed images](Lenna.png)
+![Processed images](Lenna.png)
 
